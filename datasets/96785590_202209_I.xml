@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<log>
+<entry code="xmlSchema:valueError" level="error">
+ <message element="cl-ci:NombreEmpresaAuditoriExterna" typeName="token" value="[81513400-1] PRICEWATERHOUSECO..." error="[81513400-1] PRICEWATERHOUSECOOPERS CONSULTORES AUDITORES SPA is not in dict_keys(['[79793050-4]  A Y C, CEPEDA Y PESCE AUDITORE...">[xmlSchema:valueError] Element cl-ci:NombreEmpresaAuditoriExterna type token value error: [81513400-1] PRICEWATERHOUSECO..., [81513400-1] PRICEWATERHOUSECOOPERS CONSULTORES AUDITORES SPA is not in dict_keys(['[79793050-4]  A Y C, CEPEDA Y PESCE AUDITORES CONSULTORES SPA.', '[76451472-6]  ACTA CONSULTORES SPA', '[76064140-5]  ACYSS AUDITORES CONSULTORES LIMITADA', '[76607177-5]  ADDVAL AUDITORES SPA', '[76613330-4]  ADLH CONSULTORES ASOCIADOS LIMITADA', '[76098650-K] AGN ABATAS AUDITORES CONSULTORES LIMITADA', '[77009583-2]  AHD AUDITORES Y CONSULTORES SPA', '[77848090-5]  AMR AUDITORES CONSULTORES SPA', '[76073255-9]  ARTL CHILE AUDITORES SPA', '[76312375-8]  ARVT SPA', '[77677220-8]  ASESORIAS ARI LIMITADA', '[79591820-5]  AUDITORES HUMPHREYS LIMITADA', '[76106075-9]  AUDITORIA EXTERNA OSORIO LIMITADA', '[76594797-9]  AUDITORIA Y CONSULTORA DE NEGOCIOS SPA', '[78885780-2]  AUREN AUDITORES Y CONSULTORES SPA', '[77632780-8]  AVILA &amp; ZAMBRANO AUDITORES CONSULTORES LIMITADA', '[78176290-3]  BAKER TILLY CHILE AUDITORES CONSULTORES LIMITADA', '[77548780-1]  BDO AUDITORES CONSULTORES LIMITADA', '[76651360-3]  BELAUNDE Y CONTRERAS PROFESIONALES ASOCIADOS LIMITADA', '[78810730-7]  BELTRAMIN AUDITORES CONSULTORES LIMITADA', '[82809200-6]  CANESSA S.A.', '[76135722-0]  CAPURRO Y ASOCIADOS AUDITORES CONSULTORES LIMITADA', '[78917040-1]  CASTILLO &amp; ASOCIADOS LIMITADA', '[76236664-9]  CGS CONSULTORIA LIMITADA', '[83178100-9]  CHAU, TAPIA Y ORTEGA, CONTADORES PROFESIONALES AUDITORES LIMITADA', '[96944300-7]  CHILE FINANCE ADVISORS S.A.', '[79820010-0]  CONSAUDIT INTERNATIONAL AUDITORIA &amp; CONTROL LIMITADA', '[76486950-8]  CONSULTORA XENIT LIMITADA', '[77442670-1]  CONSULTORES Y AUDITORES DE EMPRESAS LIMITADA', '[99500470-4]  CONTADORES AUDITORES ASOCIADOS S.A.', '[78120780-2]  CROWE AUDITORES CONSULTORES LIMITADA', '[76764379-9]  CVR CONSULTORIA LIMITADA', '[80276200-3]  DELOITTE AUDITORES Y CONSULTORES LIMITADA', '[76614105-6]  DEP AUDITORES SPA', '[76772371-7]  E Y M CONSULTORES SPA', '[76622773-2]  ECHEVERRIA AUDITORES SPA', '[77802430-6]  EY SERVICIOS PROFESIONALES DE AUDITORIA Y ASESORIAS SPA', '[76737007-5]  FAIR TAX SPA', '[50809880-4]  FIGUEROA, BASCUÑAN &amp; ASOCIADOS S.A.', '[76174269-8]  FILGUEIRA CONSULTORES LIMITADA', '[77222100-2]  FORTUNATO Y ASOCIADOS LIMITADA', '[76188175-2]  GAR AUDITORES LIMITADA', '[76180350-6]  GESTIONS AUDITORES &amp; CONSULTORES LIMITADA', '[76874121-2]  GQ AUDITORES CONSULTORES SPA.', '[76022238-0]  GUIÑAZU &amp; ASOCIADOS SPA', '[77964690-4]  HERNAN ESPEJO Y ASOCIADOS AUDITORES E INGENIEROS CONSULTORES LIMITADA', '[83610600-8]  HIDALGO Y ASOCIADOS LIMITADA', '[76020751-9]  HQ FINAUDIT SERVICIOS PROFESIONALES DE AUDITORIA Y ASESORIAS LIMITADA', '[76111720-3]  INTEGRAL SOLUTIONS AUDIT-ADVISORY SPA', '[76171979-3]  INVERSIONES Y ASESORIAS LAYHOD LIMITADA', '[76078470-2]  IPA S.A.', '[76412576-2]  J&amp;A AUDITORES CONSULTORES LIMITADA', '[77850380-8]  JOSE OÑATE AUDITORES CONSULTORES LIMITADA', '[78933640-7]  JULLIAN CONSULTORES SPA', '[76045940-2]  KAM AUDITORES CONSULTORES SPA', '[76468470-2]  KENNEDY AUDITORES CONSULTORES SPA', '[89907300-2]  KPMG AUDITORES CONSULTORES LIMITADA', '[76452973-1]  KRESTON MACRO CONSULTORES AUDITORES SPA', '[76562674-9]  LANDA AUDITORES SPA', '[76758559-4]  LILLO Y COMPAÑIA LIMITADA', '[76105684-0]  LSANTANDER AUDITORES CONSULTORES LIMITADA', '[78188190-2]  MAZARS AUDITORES CONSULTORES SPA', '[79923340-1]  MBA CHILE SPA', '[85450500-9]  NATTERO SPA', '[76145313-0]  OSCAR REYNALDO TORRES RIVEROS EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA', '[76448420-7]  OSSANDON &amp; OSSANDON AUDITORES CONSULTORES LIMITADA', '[79755470-7]  PKF CHILE AUDITORES CONSULTORES LIMITADA', '[81513400-1]  PRICEWATERHOUSECOOPERS CONSULTORES AUDITORES SPA', '[89375500-4]  R. SERGIO ZUÑIGA Y ASOCIADOS LIMITADA', '[78194160-3]  RAIMUNDO LOPEZ AUDITORES CONSULTORES ASOCIADOS SPA', '[76823272-5]  RBU AUDITORES CONSULTORES SPA', '[77063150-5]  ROJO Y ASOCIADOS LIMITADA', '[76086487-0]  RPA CONSULTORES SPA', '[77205551-k]  RSM CHILE AUDITORES Y CONSULTORES SPA', '[77032290-1]  RUSSELL BEDFORD AUDITORES CHILE LIMITADA', '[76604720-3]  SERVICIOS LEGALES MONCAR LEX S.A.', '[76141236-1]  SMS CHILE S.A.', '[76755330-7]  SOCIEDAD DE AUDITORIA Y ASESORIA TRIBUTARIA T&amp;C LIMITADA', '[83110800-2]  SURLATINA AUDITORES LIMITADA', '[76923871-9]  TAAS AUDIT SPA', '[76182952-1]  VERA Y ASOCIADOS S.A.', '[76324883-6]  VMJ AUDITORES CONSULTORES Y COMPAÑIA LIMITADA', '[0-0]                 OTRO']) - 96785590_202209_I.xbrl 670</message>
+ <ref href="96785590_202209_I.xbrl#element(/1/134)" sourceLine="670">
+  <property name="label" value="Name of external audit company"/>
+  <property name="namespace" value="http://www.cmfchile.cl/cl/fr/ci/2022-01-03"/>
+  <property name="name" value="NombreEmpresaAuditoriExterna"/>
+  <property name="QName" value="cl-ci:NombreEmpresaAuditoriExterna"/>
+  <property name="decimals" value="None"/>
+  <property name="precision" value="None"/>
+  <property name="xsi:nil" value="false"/>
+  <property name="value" value="[81513400-1]  PRICEWATERHOUSECOOPERS CONSULTORES AUDITORES SPA"/>
+ </ref></entry>
+<entry code="info" level="info">
+ <message>[info] loaded in 4.98 secs at 2022-11-28T22:05:21 - f:\out\113-45\96785590_202209_I.xbrl </message>
+ <ref href="f:\out\113-45\96785590_202209_I.xbrl"/></entry>
+<entry code="" level="info">
+ <message>[] Formula xpath2 grammar initialized in 1.41 secs - </message>
+ <ref href=""/></entry>
+<entry code="info:profileActivity" level="info">
+ <message activity="... assertion and formula checks and compilation" time="3.781">[info:profileActivity] ... assertion and formula checks and compilation 3.781 secs
+ - 96785590_202209_I.xbrl </message>
+ <ref href="96785590_202209_I.xbrl"/></entry>
+<entry code="message:regla861220" level="info">
+ <message label="861220">[message:regla861220] Rol[861200] Regla861220: Suma dimensiones Número de acciones en circulación OK; contexto  Saldo_ifrs-full_DisclosureOfClassesOfShareCapitalTable_ifrs-full_PreferenceSharesMember_7_ACT - 96785590_202209_I.xbrl 128</message>
+ <ref href="96785590_202209_I.xbrl#regla861220" sourceLine="128">
+  <property name="id" value="regla861220"/>
+  <property name="label" value="lbl26784"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesOutstanding = sum($ifrs-full:NumberOfSharesOutstanding2)"/>
+ </ref></entry>
+<entry code="message:regla861220" level="info">
+ <message label="861220">[message:regla861220] Rol[861200] Regla861220: Suma dimensiones Número de acciones en circulación OK; contexto  SaldoInicio_ifrs-full_DisclosureOfClassesOfShareCapitalTable_ifrs-full_PreferenceSharesMember_7_ACT - 96785590_202209_I.xbrl 128</message>
+ <ref href="96785590_202209_I.xbrl#regla861220" sourceLine="128">
+  <property name="id" value="regla861220"/>
+  <property name="label" value="lbl26784"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesOutstanding = sum($ifrs-full:NumberOfSharesOutstanding2)"/>
+ </ref></entry>
+<entry code="message:regla100018" level="info">
+ <message label="100018">[message:regla100018] Rol[818000] Regla100018: OK, valida si se debe informar Cuentas por pagar a entidades relacionadas - 96785590_202209_I.xbrl 367</message>
+ <ref href="96785590_202209_I.xbrl#regla100018" sourceLine="367">
+  <property name="id" value="regla100018"/>
+  <property name="label" value="lbl29525"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:CuentasPagarEntidadesRelacionadasCorrientes) eq 1) then (count(//cl-ci:CuentasPagarEntidadesRelacionadas eq 1)) else true()"/>
+ </ref></entry>
+<entry code="message:regla610027" level="info">
+ <message label="610027">[message:regla610027] Rol[610000] Regla610027: Suma dimensiones Ganancia (pérdida) OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ACT - 96785590_202209_I.xbrl 169</message>
+ <ref href="96785590_202209_I.xbrl#regla610027" sourceLine="169">
+  <property name="id" value="regla610027"/>
+  <property name="label" value="lbl14517"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ProfitLoss = sum($ifrs-full:ProfitLoss2)"/>
+ </ref></entry>
+<entry code="message:regla610027" level="info">
+ <message label="610027">[message:regla610027] Rol[610000] Regla610027: Suma dimensiones Ganancia (pérdida) OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ANT - 96785590_202209_I.xbrl 169</message>
+ <ref href="96785590_202209_I.xbrl#regla610027" sourceLine="169">
+  <property name="id" value="regla610027"/>
+  <property name="label" value="lbl14517"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ProfitLoss = sum($ifrs-full:ProfitLoss2)"/>
+ </ref></entry>
+<entry code="message:regla810005" level="info">
+ <message label="810005">[message:regla810005] Rol[810000a] Regla810005:  Bolsa de comercio de santiago, se valida correctamente - 96785590_202209_I.xbrl 79</message>
+ <ref href="96785590_202209_I.xbrl#regla810005" sourceLine="79">
+  <property name="id" value="regla810005"/>
+  <property name="label" value="lbl16190"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (//cl-ci:AccionesInscritas = 'Si') then (count(//cl-ci:BolsaComercioSantiago) eq 1) else true () "/>
+ </ref></entry>
+<entry code="message:regla110010" level="info">
+ <message>[message:regla110010] Rol[110000] Regla110010:  Grado de redondeo utilizado en los estados financieros, está informado - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla110010" sourceLine="63">
+  <property name="id" value="regla110010"/>
+  <property name="label" value="lbl13159"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla810003" level="info">
+ <message>[message:regla810003] Rol[810000a] Regla810003:  Acciones, está informado - 96785590_202209_I.xbrl 41</message>
+ <ref href="96785590_202209_I.xbrl#regla810003" sourceLine="41">
+  <property name="id" value="regla810003"/>
+  <property name="label" value="lbl16178"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla110006" level="info">
+ <message>[message:regla110006] Rol[110000] Regla110006:  Tipo de estados financieros, está informado - 96785590_202209_I.xbrl 51</message>
+ <ref href="96785590_202209_I.xbrl#regla110006" sourceLine="51">
+  <property name="id" value="regla110006"/>
+  <property name="label" value="lbl13135"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla105002" level="info">
+ <message>[message:regla105002] Rol[105000] Regla105002:  Información a revelar sobre la naturaleza del negocio [bloque de texto], está informado - 96785590_202209_I.xbrl 38</message>
+ <ref href="96785590_202209_I.xbrl#regla105002" sourceLine="38">
+  <property name="id" value="regla105002"/>
+  <property name="label" value="lbl13048"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla100019" level="info">
+ <message label="100019">[message:regla100019] Rol[818000] Regla100019: OK, valida si se debe informar Cuentas por pagar a entidades relacionadas - 96785590_202209_I.xbrl 370</message>
+ <ref href="96785590_202209_I.xbrl#regla100019" sourceLine="370">
+  <property name="id" value="regla100019"/>
+  <property name="label" value="lbl29529"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:CuentasPagarEntidadesRelacionadasNoCorrientes) eq 1) then (count(//cl-ci:CuentasPagarEntidadesRelacionadas eq 1)) else true()"/>
+ </ref></entry>
+<entry code="message:regla861203" level="info">
+ <message>[message:regla861203] Rol[861200] Regla861203:  Número de acciones emitidas y completamente pagadas, está informado - 96785590_202209_I.xbrl 45</message>
+ <ref href="96785590_202209_I.xbrl#regla861203" sourceLine="45">
+  <property name="id" value="regla861203"/>
+  <property name="label" value="lbl26668"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla810006" level="info">
+ <message label="810006">[message:regla810006] Rol[810000a] Regla810006:  Bolsa electrónica de chile, se valida correctamente - 96785590_202209_I.xbrl 82</message>
+ <ref href="96785590_202209_I.xbrl#regla810006" sourceLine="82">
+  <property name="id" value="regla810006"/>
+  <property name="label" value="lbl16194"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (//cl-ci:AccionesInscritas = 'Si') then (count(//cl-ci:BolsaElectronicaChile) eq 1) else true () "/>
+ </ref></entry>
+<entry code="message:regla210002" level="info">
+ <message label="210002">[message:regla210002] Rol[210000] Regla210002:  Total de activos es igual a Total de patrimonio y pasivos OK; contexto  SaldoActualInicio - 96785590_202209_I.xbrl 38</message>
+ <ref href="96785590_202209_I.xbrl#regla210002" sourceLine="38">
+  <property name="id" value="regla210002"/>
+  <property name="label" value="lbl13418"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Assets eq $ifrs-full:EquityAndLiabilities"/>
+ </ref></entry>
+<entry code="message:regla210002" level="info">
+ <message label="210002">[message:regla210002] Rol[210000] Regla210002:  Total de activos es igual a Total de patrimonio y pasivos OK; contexto  CierreTrimestreActual - 96785590_202209_I.xbrl 38</message>
+ <ref href="96785590_202209_I.xbrl#regla210002" sourceLine="38">
+  <property name="id" value="regla210002"/>
+  <property name="label" value="lbl13418"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Assets eq $ifrs-full:EquityAndLiabilities"/>
+ </ref></entry>
+<entry code="message:regla610025" level="info">
+ <message label="610025">[message:regla610025] Rol[610000] Regla610025: Suma dimensiones Patrimonio al comienzo del periodo OK; contexto  SaldoInicio_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ACT - 96785590_202209_I.xbrl 159</message>
+ <ref href="96785590_202209_I.xbrl#regla610025" sourceLine="159">
+  <property name="id" value="regla610025"/>
+  <property name="label" value="lbl14505"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioReexpresado = sum($cl-ci:PatrimonioReexpresado2)"/>
+ </ref></entry>
+<entry code="message:regla610025" level="info">
+ <message label="610025">[message:regla610025] Rol[610000] Regla610025: Suma dimensiones Patrimonio al comienzo del periodo OK; contexto  SaldoInicio_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ANT - 96785590_202209_I.xbrl 159</message>
+ <ref href="96785590_202209_I.xbrl#regla610025" sourceLine="159">
+  <property name="id" value="regla610025"/>
+  <property name="label" value="lbl14505"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioReexpresado = sum($cl-ci:PatrimonioReexpresado2)"/>
+ </ref></entry>
+<entry code="message:regla110011" level="info">
+ <message>[message:regla110011] Rol[110000] Regla110011:  Código de actividad principal, está informado - 96785590_202209_I.xbrl 66</message>
+ <ref href="96785590_202209_I.xbrl#regla110011" sourceLine="66">
+  <property name="id" value="regla110011"/>
+  <property name="label" value="lbl13165"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla810004" level="info">
+ <message>[message:regla810004] Rol[810000a] Regla810004:  Títulos de deuda, está informado - 96785590_202209_I.xbrl 44</message>
+ <ref href="96785590_202209_I.xbrl#regla810004" sourceLine="44">
+  <property name="id" value="regla810004"/>
+  <property name="label" value="lbl16184"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla110007" level="info">
+ <message>[message:regla110007] Rol[110000] Regla110007:  Fecha de cierre del periodo sobre el que se informa, está informado - 96785590_202209_I.xbrl 54</message>
+ <ref href="96785590_202209_I.xbrl#regla110007" sourceLine="54">
+  <property name="id" value="regla110007"/>
+  <property name="label" value="lbl13141"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". eq 1"/>
+ </ref></entry>
+<entry code="message:regla100020" level="info">
+ <message label="100020">[message:regla100020] Rol[818000] Regla100020: OK, valida si se debe informar Cuentas por pagar a entidades relacionadas, corrientes o Cuentas por pagar a entidades relacionadas, no corrientes - 96785590_202209_I.xbrl 373</message>
+ <ref href="96785590_202209_I.xbrl#regla100020" sourceLine="373">
+  <property name="id" value="regla100020"/>
+  <property name="label" value="lbl29533"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:CuentasPagarEntidadesRelacionadas) eq 1) then (count(//cl-ci:CuentasPagarEntidadesRelacionadasNoCorrientes eq 1) or count(//cl-ci:CuentasPagarEntidadesRelacionadasCorrientes eq 1)) else true()"/>
+ </ref></entry>
+<entry code="message:regla105003" level="info">
+ <message>[message:regla105003] Rol[105000] Regla105003:  Información a revelar sobre los objetivos de la gerencia y sus estrategias para alcanzar esos objetivos [bloque de texto], está informado - 96785590_202209_I.xbrl 41</message>
+ <ref href="96785590_202209_I.xbrl#regla105003" sourceLine="41">
+  <property name="id" value="regla105003"/>
+  <property name="label" value="lbl13054"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla810007" level="info">
+ <message label="810007">[message:regla810007] Rol[810000a] Regla810007:  Bono, se valida correctamente - 96785590_202209_I.xbrl 85</message>
+ <ref href="96785590_202209_I.xbrl#regla810007" sourceLine="85">
+  <property name="id" value="regla810007"/>
+  <property name="label" value="lbl16198"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (//cl-ci:TitulosDeDeuda = 'Si') then (count(//cl-ci:Bono) eq 1) else true () "/>
+ </ref></entry>
+<entry code="message:regla100015" level="info">
+ <message label="100015">[message:regla100015] Rol[818000] Regla100015: OK, valida si se debe informar Cuentas por cobrar a entidades relacionadas - 96785590_202209_I.xbrl 358</message>
+ <ref href="96785590_202209_I.xbrl#regla100015" sourceLine="358">
+  <property name="id" value="regla100015"/>
+  <property name="label" value="lbl29513"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:CuentasCobrarEntidadesRelacionadasCorrientes) eq 1) then (count(//cl-ci:CuentasCobrarEntidadesRelacionadas eq 1)) else true()"/>
+ </ref></entry>
+<entry code="message:regla110005" level="info">
+ <message>[message:regla110005] Rol[110000] Regla110005:  Descripción de la naturaleza de los estados financieros, está informado - 96785590_202209_I.xbrl 48</message>
+ <ref href="96785590_202209_I.xbrl#regla110005" sourceLine="48">
+  <property name="id" value="regla110005"/>
+  <property name="label" value="lbl13129"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla110012" level="info">
+ <message>[message:regla110012] Rol[110000] Regla110012:  Fecha Sesión Directorio en que se aprobaron los estados  financieros, está informado - 96785590_202209_I.xbrl 69</message>
+ <ref href="96785590_202209_I.xbrl#regla110012" sourceLine="69">
+  <property name="id" value="regla110012"/>
+  <property name="label" value="lbl13171"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla610041" level="info">
+ <message label="610041">[message:regla610041] Rol[610000] Regla610041: Suma dimensiones Total incremento (disminución) en el patrimonio OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ACT - 96785590_202209_I.xbrl 239</message>
+ <ref href="96785590_202209_I.xbrl#regla610041" sourceLine="239">
+  <property name="id" value="regla610041"/>
+  <property name="label" value="lbl14601"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ChangesInEquity = sum($ifrs-full:ChangesInEquity2)"/>
+ </ref></entry>
+<entry code="message:regla610041" level="info">
+ <message label="610041">[message:regla610041] Rol[610000] Regla610041: Suma dimensiones Total incremento (disminución) en el patrimonio OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ANT - 96785590_202209_I.xbrl 239</message>
+ <ref href="96785590_202209_I.xbrl#regla610041" sourceLine="239">
+  <property name="id" value="regla610041"/>
+  <property name="label" value="lbl14601"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ChangesInEquity = sum($ifrs-full:ChangesInEquity2)"/>
+ </ref></entry>
+<entry code="message:regla110008" level="info">
+ <message>[message:regla110008] Rol[110000] Regla110008:  Periodo cubierto por los estados financieros, está informado - 96785590_202209_I.xbrl 57</message>
+ <ref href="96785590_202209_I.xbrl#regla110008" sourceLine="57">
+  <property name="id" value="regla110008"/>
+  <property name="label" value="lbl13147"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla810008" level="info">
+ <message label="810008">[message:regla810008] Rol[810000a] Regla810008:  Efecto de comercio, se valida correctamente - 96785590_202209_I.xbrl 88</message>
+ <ref href="96785590_202209_I.xbrl#regla810008" sourceLine="88">
+  <property name="id" value="regla810008"/>
+  <property name="label" value="lbl16202"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (//cl-ci:TitulosDeDeuda = 'Si') then (count(//cl-ci:EfectoComercio) eq 1) else true () "/>
+ </ref></entry>
+<entry code="message:regla835112" level="info">
+ <message label="835112">[message:regla835112] Rol[835110d] Regla835112: Suma dimensiones Pasivo (activo) por impuestos diferidos neto OK; contexto  SaldoActualInicio - 96785590_202209_I.xbrl 43</message>
+ <ref href="96785590_202209_I.xbrl#regla835112" sourceLine="43">
+  <property name="id" value="regla835112"/>
+  <property name="label" value="lbl26208"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:DeferredTaxLiabilityAsset = sum($ifrs-full:DeferredTaxLiabilityAsset2)"/>
+ </ref></entry>
+<entry code="message:regla835112" level="info">
+ <message label="835112">[message:regla835112] Rol[835110d] Regla835112: Suma dimensiones Pasivo (activo) por impuestos diferidos neto OK; contexto  CierreTrimestreActual - 96785590_202209_I.xbrl 43</message>
+ <ref href="96785590_202209_I.xbrl#regla835112" sourceLine="43">
+  <property name="id" value="regla835112"/>
+  <property name="label" value="lbl26208"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:DeferredTaxLiabilityAsset = sum($ifrs-full:DeferredTaxLiabilityAsset2)"/>
+ </ref></entry>
+<entry code="message:regla105004" level="info">
+ <message>[message:regla105004] Rol[105000] Regla105004:  Información a revelar sobre los recursos, riesgos y relaciones más significativos de la entidad [bloque de texto], está informado - 96785590_202209_I.xbrl 44</message>
+ <ref href="96785590_202209_I.xbrl#regla105004" sourceLine="44">
+  <property name="id" value="regla105004"/>
+  <property name="label" value="lbl13060"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla100016" level="info">
+ <message label="100016">[message:regla100016] Rol[818000] Regla100016: OK, valida si se debe informar Cuentas por cobrar a entidades relacionadas - 96785590_202209_I.xbrl 361</message>
+ <ref href="96785590_202209_I.xbrl#regla100016" sourceLine="361">
+  <property name="id" value="regla100016"/>
+  <property name="label" value="lbl29517"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:CuentasCobrarEntidadesRelacionadasNoCorrientes) eq 1) then (count(//cl-ci:CuentasCobrarEntidadesRelacionadas eq 1)) else true()"/>
+ </ref></entry>
+<entry code="message:regla110003" level="info">
+ <message>[message:regla110003] Rol[110000] Regla110003:  RUT de entidad que Informa, está informado - 96785590_202209_I.xbrl 42</message>
+ <ref href="96785590_202209_I.xbrl#regla110003" sourceLine="42">
+  <property name="id" value="regla110003"/>
+  <property name="label" value="lbl13117"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla610026" level="info">
+ <message label="610026">[message:regla610026] Rol[610000] Regla610026: Suma dimensiones Patrimonio OK; contexto  Saldo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ACT - 96785590_202209_I.xbrl 164</message>
+ <ref href="96785590_202209_I.xbrl#regla610026" sourceLine="164">
+  <property name="id" value="regla610026"/>
+  <property name="label" value="lbl14511"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity = sum($ifrs-full:Equity2)"/>
+ </ref></entry>
+<entry code="message:regla610026" level="info">
+ <message label="610026">[message:regla610026] Rol[610000] Regla610026: Suma dimensiones Patrimonio OK; contexto  Saldo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ANT - 96785590_202209_I.xbrl 164</message>
+ <ref href="96785590_202209_I.xbrl#regla610026" sourceLine="164">
+  <property name="id" value="regla610026"/>
+  <property name="label" value="lbl14511"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity = sum($ifrs-full:Equity2)"/>
+ </ref></entry>
+<entry code="message:regla210003" level="info">
+ <message>[message:regla210003] Rol[210000] Regla210003:  Total de patrimonio y pasivos, está informado - 96785590_202209_I.xbrl 43</message>
+ <ref href="96785590_202209_I.xbrl#regla210003" sourceLine="43">
+  <property name="id" value="regla210003"/>
+  <property name="label" value="lbl13425"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 2"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla861206" level="info">
+ <message label="861206">[message:regla861206] Rol[861200] Regla861206:  Número de acciones autorizadas es mayor o igual a Total número de acciones emitidas - 96785590_202209_I.xbrl 58</message>
+ <ref href="96785590_202209_I.xbrl#regla861206" sourceLine="58">
+  <property name="id" value="regla861206"/>
+  <property name="label" value="lbl26690"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised ge $ifrs-full:NumberOfSharesIssued"/>
+ </ref></entry>
+<entry code="message:regla510001" level="info">
+ <message>[message:regla510001] Rol[510000] Regla510001:  Incremento (disminución) neto de efectivo y equivalentes al efectivo, está informado - 96785590_202209_I.xbrl 36</message>
+ <ref href="96785590_202209_I.xbrl#regla510001" sourceLine="36">
+  <property name="id" value="regla510001"/>
+  <property name="label" value="lbl14016"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 2"/>
+ </ref></entry>
+<entry code="message:regla110002" level="info">
+ <message>[message:regla110002] Rol[110000] Regla110002:  Nombre de la entidad que informa u otras formas de identificación , está informado - 96785590_202209_I.xbrl 39</message>
+ <ref href="96785590_202209_I.xbrl#regla110002" sourceLine="39">
+  <property name="id" value="regla110002"/>
+  <property name="label" value="lbl13111"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla610029" level="info">
+ <message label="610029">[message:regla610029] Rol[610000] Regla610029: Suma dimensiones Resultado integral OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ANT - 96785590_202209_I.xbrl 179</message>
+ <ref href="96785590_202209_I.xbrl#regla610029" sourceLine="179">
+  <property name="id" value="regla610029"/>
+  <property name="label" value="lbl14529"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ComprehensiveIncome = sum($ifrs-full:ComprehensiveIncome2)"/>
+ </ref></entry>
+<entry code="message:regla610029" level="info">
+ <message label="610029">[message:regla610029] Rol[610000] Regla610029: Suma dimensiones Resultado integral OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ACT - 96785590_202209_I.xbrl 179</message>
+ <ref href="96785590_202209_I.xbrl#regla610029" sourceLine="179">
+  <property name="id" value="regla610029"/>
+  <property name="label" value="lbl14529"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ComprehensiveIncome = sum($ifrs-full:ComprehensiveIncome2)"/>
+ </ref></entry>
+<entry code="message:regla100017" level="info">
+ <message label="100017">[message:regla100017] Rol[818000] Regla100017: OK, valida si se debe informar Cuentas por cobrar a entidades relacionadas, corrientes o Cuentas por cobrar a entidades relacionadas, no corrientes - 96785590_202209_I.xbrl 364</message>
+ <ref href="96785590_202209_I.xbrl#regla100017" sourceLine="364">
+  <property name="id" value="regla100017"/>
+  <property name="label" value="lbl29521"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:CuentasCobrarEntidadesRelacionadas) eq 1) then (count(//cl-ci:CuentasCobrarEntidadesRelacionadasNoCorrientes eq 1) or count(//cl-ci:CuentasCobrarEntidadesRelacionadasCorrientes eq 1)) else true()"/>
+ </ref></entry>
+<entry code="message:regla110009" level="info">
+ <message>[message:regla110009] Rol[110000] Regla110009:  Descripción de la moneda de presentación, está informado - 96785590_202209_I.xbrl 60</message>
+ <ref href="96785590_202209_I.xbrl#regla110009" sourceLine="60">
+  <property name="id" value="regla110009"/>
+  <property name="label" value="lbl13153"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla861201" level="info">
+ <message>[message:regla861201] Rol[861200] Regla861201:  Número de acciones autorizadas, está informado - 96785590_202209_I.xbrl 39</message>
+ <ref href="96785590_202209_I.xbrl#regla861201" sourceLine="39">
+  <property name="id" value="regla861201"/>
+  <property name="label" value="lbl26656"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla105001" level="info">
+ <message>[message:regla105001] Rol[105000] Regla105001:  Comentarios de la gerencia [bloque de texto], está informado - 96785590_202209_I.xbrl 35</message>
+ <ref href="96785590_202209_I.xbrl#regla105001" sourceLine="35">
+  <property name="id" value="regla105001"/>
+  <property name="label" value="lbl13042"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla105005" level="info">
+ <message>[message:regla105005] Rol[105000] Regla105005:  Información a revelar sobre los resultados de las operaciones y perspectivas [bloque de texto], está informado - 96785590_202209_I.xbrl 47</message>
+ <ref href="96785590_202209_I.xbrl#regla105005" sourceLine="47">
+  <property name="id" value="regla105005"/>
+  <property name="label" value="lbl13066"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla610042" level="info">
+ <message label="610042">[message:regla610042] Rol[610000] Regla610042: Suma dimensiones Patrimonio previamente reportado OK; contexto  SaldoInicio_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_OtherReservesMember_3_ACT - 96785590_202209_I.xbrl 244</message>
+ <ref href="96785590_202209_I.xbrl#regla610042" sourceLine="244">
+  <property name="id" value="regla610042"/>
+  <property name="label" value="lbl14607"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioPreviamenteReportado = sum($cl-ci:PatrimonioPreviamenteReportado2)"/>
+ </ref></entry>
+<entry code="message:regla610042" level="info">
+ <message label="610042">[message:regla610042] Rol[610000] Regla610042: Suma dimensiones Patrimonio previamente reportado OK; contexto  SaldoInicio_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_OtherReservesMember_3_ANT - 96785590_202209_I.xbrl 244</message>
+ <ref href="96785590_202209_I.xbrl#regla610042" sourceLine="244">
+  <property name="id" value="regla610042"/>
+  <property name="label" value="lbl14607"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioPreviamenteReportado = sum($cl-ci:PatrimonioPreviamenteReportado2)"/>
+ </ref></entry>
+<entry code="message:regla110001" level="info">
+ <message>[message:regla110001] Rol[110000] Regla110001:  Información a revelar sobre información general sobre los estados financieros [bloque de texto], está informado - 96785590_202209_I.xbrl 36</message>
+ <ref href="96785590_202209_I.xbrl#regla110001" sourceLine="36">
+  <property name="id" value="regla110001"/>
+  <property name="label" value="lbl13105"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla861212" level="info">
+ <message label="861212">[message:regla861212] Rol[861200] Regla861212: Suma dimensiones Número de acciones en circulación OK; contexto  CierreTrimestreActual - 96785590_202209_I.xbrl 88</message>
+ <ref href="96785590_202209_I.xbrl#regla861212" sourceLine="88">
+  <property name="id" value="regla861212"/>
+  <property name="label" value="lbl26732"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesOutstanding = sum($ifrs-full:NumberOfSharesOutstanding2)"/>
+ </ref></entry>
+<entry code="message:regla861212" level="info">
+ <message label="861212">[message:regla861212] Rol[861200] Regla861212: Suma dimensiones Número de acciones en circulación OK; contexto  SaldoActualInicio - 96785590_202209_I.xbrl 88</message>
+ <ref href="96785590_202209_I.xbrl#regla861212" sourceLine="88">
+  <property name="id" value="regla861212"/>
+  <property name="label" value="lbl26732"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesOutstanding = sum($ifrs-full:NumberOfSharesOutstanding2)"/>
+ </ref></entry>
+<entry code="message:regla861212" level="info">
+ <message label="861212">[message:regla861212] Rol[861200] Regla861212: Suma dimensiones Número de acciones en circulación OK; contexto  SaldoAnteriorInicio - 96785590_202209_I.xbrl 88</message>
+ <ref href="96785590_202209_I.xbrl#regla861212" sourceLine="88">
+  <property name="id" value="regla861212"/>
+  <property name="label" value="lbl26732"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesOutstanding = sum($ifrs-full:NumberOfSharesOutstanding2)"/>
+ </ref></entry>
+<entry code="message:regla510002" level="info">
+ <message label="510002">[message:regla510002] Rol[510000] Regla510002: Informa Efectivo y equivalentes al efectivo al final del periodo OK; contexto  TrimestreAcumuladoAnterior - 96785590_202209_I.xbrl 39</message>
+ <ref href="96785590_202209_I.xbrl#regla510002" sourceLine="39">
+  <property name="id" value="regla510002"/>
+  <property name="label" value="lbl14022"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:CashAndCashEquivalentsIfDifferentFromStatementOfFinancialPosition eq $ifrs-full:CashAndCashEquivalentsIfDifferentFromStatementOfFinancialPosition2  + $ifrs-full:IncreaseDecreaseInCashAndCashEquivalents"/>
+ </ref></entry>
+<entry code="message:regla510002" level="info">
+ <message label="510002">[message:regla510002] Rol[510000] Regla510002: Informa Efectivo y equivalentes al efectivo al final del periodo OK; contexto  TrimestreAcumuladoActual - 96785590_202209_I.xbrl 39</message>
+ <ref href="96785590_202209_I.xbrl#regla510002" sourceLine="39">
+  <property name="id" value="regla510002"/>
+  <property name="label" value="lbl14022"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:CashAndCashEquivalentsIfDifferentFromStatementOfFinancialPosition eq $ifrs-full:CashAndCashEquivalentsIfDifferentFromStatementOfFinancialPosition2  + $ifrs-full:IncreaseDecreaseInCashAndCashEquivalents"/>
+ </ref></entry>
+<entry code="message:regla610001" level="info">
+ <message label="610001">[message:regla610001] Rol[610000] Regla610001: Informa Patrimonio al final del periodo OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_cl-ci_GananciaPerdidaAcumuladaMember_3_ACT - 96785590_202209_I.xbrl 37</message>
+ <ref href="96785590_202209_I.xbrl#regla610001" sourceLine="37">
+  <property name="id" value="regla610001"/>
+  <property name="label" value="lbl14334"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity eq $cl-ci:PatrimonioReexpresado  + $ifrs-full:ChangesInEquity"/>
+ </ref></entry>
+<entry code="message:regla610001" level="info">
+ <message label="610001">[message:regla610001] Rol[610000] Regla610001: Informa Patrimonio al final del periodo OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_IssuedCapitalMember_3_ACT - 96785590_202209_I.xbrl 37</message>
+ <ref href="96785590_202209_I.xbrl#regla610001" sourceLine="37">
+  <property name="id" value="regla610001"/>
+  <property name="label" value="lbl14334"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity eq $cl-ci:PatrimonioReexpresado  + $ifrs-full:ChangesInEquity"/>
+ </ref></entry>
+<entry code="message:regla610001" level="info">
+ <message label="610001">[message:regla610001] Rol[610000] Regla610001: Informa Patrimonio al final del periodo OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_cl-ci_GananciaPerdidaAcumuladaMember_3_ANT - 96785590_202209_I.xbrl 37</message>
+ <ref href="96785590_202209_I.xbrl#regla610001" sourceLine="37">
+  <property name="id" value="regla610001"/>
+  <property name="label" value="lbl14334"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity eq $cl-ci:PatrimonioReexpresado  + $ifrs-full:ChangesInEquity"/>
+ </ref></entry>
+<entry code="message:regla610001" level="info">
+ <message label="610001">[message:regla610001] Rol[610000] Regla610001: Informa Patrimonio al final del periodo OK; contexto  TrimestreAcumuladoActual - 96785590_202209_I.xbrl 37</message>
+ <ref href="96785590_202209_I.xbrl#regla610001" sourceLine="37">
+  <property name="id" value="regla610001"/>
+  <property name="label" value="lbl14334"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity eq $cl-ci:PatrimonioReexpresado  + $ifrs-full:ChangesInEquity"/>
+ </ref></entry>
+<entry code="message:regla610001" level="info">
+ <message label="610001">[message:regla610001] Rol[610000] Regla610001: Informa Patrimonio al final del periodo OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ACT - 96785590_202209_I.xbrl 37</message>
+ <ref href="96785590_202209_I.xbrl#regla610001" sourceLine="37">
+  <property name="id" value="regla610001"/>
+  <property name="label" value="lbl14334"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity eq $cl-ci:PatrimonioReexpresado  + $ifrs-full:ChangesInEquity"/>
+ </ref></entry>
+<entry code="message:regla610001" level="info">
+ <message label="610001">[message:regla610001] Rol[610000] Regla610001: Informa Patrimonio al final del periodo OK; contexto  TrimestreAcumuladoAnterior - 96785590_202209_I.xbrl 37</message>
+ <ref href="96785590_202209_I.xbrl#regla610001" sourceLine="37">
+  <property name="id" value="regla610001"/>
+  <property name="label" value="lbl14334"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity eq $cl-ci:PatrimonioReexpresado  + $ifrs-full:ChangesInEquity"/>
+ </ref></entry>
+<entry code="message:regla610001" level="info">
+ <message label="610001">[message:regla610001] Rol[610000] Regla610001: Informa Patrimonio al final del periodo OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ANT - 96785590_202209_I.xbrl 37</message>
+ <ref href="96785590_202209_I.xbrl#regla610001" sourceLine="37">
+  <property name="id" value="regla610001"/>
+  <property name="label" value="lbl14334"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity eq $cl-ci:PatrimonioReexpresado  + $ifrs-full:ChangesInEquity"/>
+ </ref></entry>
+<entry code="message:regla110013" level="info">
+ <message label="110013">[message:regla110013] Rol[110000] Regla110013: OK, valida si se debe informar Nombre de empresa de auditoría externa - 96785590_202209_I.xbrl 168</message>
+ <ref href="96785590_202209_I.xbrl#regla110013" sourceLine="168">
+  <property name="id" value="regla110013"/>
+  <property name="label" value="lbl13177"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-12-31')) then (count(//cl-ci:NombreEmpresaAuditoriExterna[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2023-01-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla610006" level="info">
+ <message label="610006">[message:regla610006] Rol[610000] Regla610006: Suma dimensiones Patrimonio OK; contexto  CierreTrimestreAnterior - 96785590_202209_I.xbrl 64</message>
+ <ref href="96785590_202209_I.xbrl#regla610006" sourceLine="64">
+  <property name="id" value="regla610006"/>
+  <property name="label" value="lbl14375"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity = sum($ifrs-full:Equity2)"/>
+ </ref></entry>
+<entry code="message:regla610006" level="info">
+ <message label="610006">[message:regla610006] Rol[610000] Regla610006: Suma dimensiones Patrimonio OK; contexto  CierreTrimestreActual - 96785590_202209_I.xbrl 64</message>
+ <ref href="96785590_202209_I.xbrl#regla610006" sourceLine="64">
+  <property name="id" value="regla610006"/>
+  <property name="label" value="lbl14375"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity = sum($ifrs-full:Equity2)"/>
+ </ref></entry>
+<entry code="message:regla110019" level="info">
+ <message label="110019">[message:regla110019] Rol[110000] Regla110019: OK, valida si se debe informar Nombre del Socio que firma opinión - 96785590_202209_I.xbrl 186</message>
+ <ref href="96785590_202209_I.xbrl#regla110019" sourceLine="186">
+  <property name="id" value="regla110019"/>
+  <property name="label" value="lbl13201"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-06-30')) then (count(//cl-ci:NombreSocioFirmaOpinion[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2022-07-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla610045" level="info">
+ <message label="610045">[message:regla610045] Rol[610000] Regla610045: Suma dimensiones Patrimonio al comienzo del periodo OK; contexto  SaldoInicio_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_OtherReservesMember_3_ANT - 96785590_202209_I.xbrl 259</message>
+ <ref href="96785590_202209_I.xbrl#regla610045" sourceLine="259">
+  <property name="id" value="regla610045"/>
+  <property name="label" value="lbl14627"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioReexpresado = sum($cl-ci:PatrimonioReexpresado2)"/>
+ </ref></entry>
+<entry code="message:regla610045" level="info">
+ <message label="610045">[message:regla610045] Rol[610000] Regla610045: Suma dimensiones Patrimonio al comienzo del periodo OK; contexto  SaldoInicio_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_OtherReservesMember_3_ACT - 96785590_202209_I.xbrl 259</message>
+ <ref href="96785590_202209_I.xbrl#regla610045" sourceLine="259">
+  <property name="id" value="regla610045"/>
+  <property name="label" value="lbl14627"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioReexpresado = sum($cl-ci:PatrimonioReexpresado2)"/>
+ </ref></entry>
+<entry code="message:regla810001" level="info">
+ <message>[message:regla810001] Rol[810000] Regla810001:  Numero de accionistas, está informado - 96785590_202209_I.xbrl 35</message>
+ <ref href="96785590_202209_I.xbrl#regla810001" sourceLine="35">
+  <property name="id" value="regla810001"/>
+  <property name="label" value="lbl16166"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla105006" level="info">
+ <message>[message:regla105006] Rol[105000] Regla105006:  Información a revelar sobre las medidas de rendimiento fundamentales e indicadores que la gerencia utiliza para evaluar el rendimiento de la entidad con respecto a los objetivos establecidos [bloque de texto], está informado - 96785590_202209_I.xbrl 50</message>
+ <ref href="96785590_202209_I.xbrl#regla105006" sourceLine="50">
+  <property name="id" value="regla105006"/>
+  <property name="label" value="lbl13072"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla610022" level="info">
+ <message label="610022">[message:regla610022] Rol[610000] Regla610022: Suma dimensiones Patrimonio previamente reportado OK; contexto  SaldoInicio_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ACT - 96785590_202209_I.xbrl 144</message>
+ <ref href="96785590_202209_I.xbrl#regla610022" sourceLine="144">
+  <property name="id" value="regla610022"/>
+  <property name="label" value="lbl14485"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioPreviamenteReportado = sum($cl-ci:PatrimonioPreviamenteReportado2)"/>
+ </ref></entry>
+<entry code="message:regla610022" level="info">
+ <message label="610022">[message:regla610022] Rol[610000] Regla610022: Suma dimensiones Patrimonio previamente reportado OK; contexto  SaldoInicio_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ANT - 96785590_202209_I.xbrl 144</message>
+ <ref href="96785590_202209_I.xbrl#regla610022" sourceLine="144">
+  <property name="id" value="regla610022"/>
+  <property name="label" value="lbl14485"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioPreviamenteReportado = sum($cl-ci:PatrimonioPreviamenteReportado2)"/>
+ </ref></entry>
+<entry code="message:regla110014" level="info">
+ <message label="110014">[message:regla110014] Rol[110000] Regla110014: OK, valida si se debe informar Nombre del Socio que firma opinión - 96785590_202209_I.xbrl 171</message>
+ <ref href="96785590_202209_I.xbrl#regla110014" sourceLine="171">
+  <property name="id" value="regla110014"/>
+  <property name="label" value="lbl13181"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-12-31')) then (count(//cl-ci:NombreSocioFirmaOpinion[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2023-01-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla610009" level="info">
+ <message label="610009">[message:regla610009] Rol[610000] Regla610009: Suma dimensiones Resultado integral OK; contexto  TrimestreAcumuladoAnterior - 96785590_202209_I.xbrl 79</message>
+ <ref href="96785590_202209_I.xbrl#regla610009" sourceLine="79">
+  <property name="id" value="regla610009"/>
+  <property name="label" value="lbl14395"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ComprehensiveIncome = sum($ifrs-full:ComprehensiveIncome2)"/>
+ </ref></entry>
+<entry code="message:regla610009" level="info">
+ <message label="610009">[message:regla610009] Rol[610000] Regla610009: Suma dimensiones Resultado integral OK; contexto  TrimestreAcumuladoActual - 96785590_202209_I.xbrl 79</message>
+ <ref href="96785590_202209_I.xbrl#regla610009" sourceLine="79">
+  <property name="id" value="regla610009"/>
+  <property name="label" value="lbl14395"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ComprehensiveIncome = sum($ifrs-full:ComprehensiveIncome2)"/>
+ </ref></entry>
+<entry code="message:regla110020" level="info">
+ <message label="110020">[message:regla110020] Rol[110000] Regla110020: OK, valida si se debe informar Rut del socio que firma opinión - 96785590_202209_I.xbrl 189</message>
+ <ref href="96785590_202209_I.xbrl#regla110020" sourceLine="189">
+  <property name="id" value="regla110020"/>
+  <property name="label" value="lbl13205"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-06-30')) then (count(//cl-ci:RutSocioFirmaOpinion[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2022-07-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla110004" level="info">
+ <message>[message:regla110004] Rol[110000] Regla110004:  Número del registro de valores, está informado - 96785590_202209_I.xbrl 45</message>
+ <ref href="96785590_202209_I.xbrl#regla110004" sourceLine="45">
+  <property name="id" value="regla110004"/>
+  <property name="label" value="lbl13123"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla610012" level="info">
+ <message label="610012">[message:regla610012] Rol[610000] Regla610012: Suma dimensiones Incremento (disminución) por otras aportaciones de los propietarios OK; contexto  TrimestreAcumuladoActual - 96785590_202209_I.xbrl 94</message>
+ <ref href="96785590_202209_I.xbrl#regla610012" sourceLine="94">
+  <property name="id" value="regla610012"/>
+  <property name="label" value="lbl14416"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:IncreaseDecreaseThroughOtherContributionsByOwners = sum($ifrs-full:IncreaseDecreaseThroughOtherContributionsByOwners2)"/>
+ </ref></entry>
+<entry code="message:regla110015" level="info">
+ <message label="110015">[message:regla110015] Rol[110000] Regla110015: OK, valida si se debe informar Rut del socio que firma opinión - 96785590_202209_I.xbrl 174</message>
+ <ref href="96785590_202209_I.xbrl#regla110015" sourceLine="174">
+  <property name="id" value="regla110015"/>
+  <property name="label" value="lbl13185"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-12-31')) then (count(//cl-ci:RutSocioFirmaOpinion[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2023-01-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla105007" level="info">
+ <message>[message:regla105007] Rol[105000] Regla105007:  Fecha de adopción de normas NIIF, está informado - 96785590_202209_I.xbrl 53</message>
+ <ref href="96785590_202209_I.xbrl#regla105007" sourceLine="53">
+  <property name="id" value="regla105007"/>
+  <property name="label" value="lbl13078"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla110021" level="info">
+ <message label="110021">[message:regla110021] Rol[110000] Regla110021: OK, valida si se debe informar Informe revisión estados financieros junio - 96785590_202209_I.xbrl 192</message>
+ <ref href="96785590_202209_I.xbrl#regla110021" sourceLine="192">
+  <property name="id" value="regla110021"/>
+  <property name="label" value="lbl13209"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-06-30')) then (count(//cl-ci:InformeEEFFJunio[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2022-07-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla610007" level="info">
+ <message label="610007">[message:regla610007] Rol[610000] Regla610007: Suma dimensiones Ganancia (pérdida) OK; contexto  TrimestreAcumuladoActual - 96785590_202209_I.xbrl 69</message>
+ <ref href="96785590_202209_I.xbrl#regla610007" sourceLine="69">
+  <property name="id" value="regla610007"/>
+  <property name="label" value="lbl14381"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ProfitLoss = sum($ifrs-full:ProfitLoss2)"/>
+ </ref></entry>
+<entry code="message:regla610007" level="info">
+ <message label="610007">[message:regla610007] Rol[610000] Regla610007: Suma dimensiones Ganancia (pérdida) OK; contexto  TrimestreAcumuladoAnterior - 96785590_202209_I.xbrl 69</message>
+ <ref href="96785590_202209_I.xbrl#regla610007" sourceLine="69">
+  <property name="id" value="regla610007"/>
+  <property name="label" value="lbl14381"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ProfitLoss = sum($ifrs-full:ProfitLoss2)"/>
+ </ref></entry>
+<entry code="message:regla861208" level="info">
+ <message label="861208">[message:regla861208] Rol[861200] Regla861208: Suma dimensiones Número de acciones autorizadas OK; contexto  SaldoActualInicio - 96785590_202209_I.xbrl 68</message>
+ <ref href="96785590_202209_I.xbrl#regla861208" sourceLine="68">
+  <property name="id" value="regla861208"/>
+  <property name="label" value="lbl26704"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised = sum($ifrs-full:NumberOfSharesAuthorised2)"/>
+ </ref></entry>
+<entry code="message:regla861208" level="info">
+ <message label="861208">[message:regla861208] Rol[861200] Regla861208: Suma dimensiones Número de acciones autorizadas OK; contexto  CierreTrimestreActual - 96785590_202209_I.xbrl 68</message>
+ <ref href="96785590_202209_I.xbrl#regla861208" sourceLine="68">
+  <property name="id" value="regla861208"/>
+  <property name="label" value="lbl26704"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised = sum($ifrs-full:NumberOfSharesAuthorised2)"/>
+ </ref></entry>
+<entry code="message:regla610046" level="info">
+ <message label="610046">[message:regla610046] Rol[610000] Regla610046: Suma dimensiones Patrimonio OK; contexto  Saldo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_OtherReservesMember_3_ACT - 96785590_202209_I.xbrl 264</message>
+ <ref href="96785590_202209_I.xbrl#regla610046" sourceLine="264">
+  <property name="id" value="regla610046"/>
+  <property name="label" value="lbl14633"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity = sum($ifrs-full:Equity2)"/>
+ </ref></entry>
+<entry code="message:regla610046" level="info">
+ <message label="610046">[message:regla610046] Rol[610000] Regla610046: Suma dimensiones Patrimonio OK; contexto  Saldo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_OtherReservesMember_3_ANT - 96785590_202209_I.xbrl 264</message>
+ <ref href="96785590_202209_I.xbrl#regla610046" sourceLine="264">
+  <property name="id" value="regla610046"/>
+  <property name="label" value="lbl14633"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:Equity = sum($ifrs-full:Equity2)"/>
+ </ref></entry>
+<entry code="message:regla861202" level="info">
+ <message>[message:regla861202] Rol[861200] Regla861202:  Total número de acciones emitidas, está informado - 96785590_202209_I.xbrl 42</message>
+ <ref href="96785590_202209_I.xbrl#regla861202" sourceLine="42">
+  <property name="id" value="regla861202"/>
+  <property name="label" value="lbl26662"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla861216" level="info">
+ <message label="861216">[message:regla861216] Rol[861200] Regla861216: Suma dimensiones Número de acciones autorizadas OK; contexto  Saldo_ifrs-full_DisclosureOfClassesOfShareCapitalTable_ifrs-full_PreferenceSharesMember_7_ACT - 96785590_202209_I.xbrl 108</message>
+ <ref href="96785590_202209_I.xbrl#regla861216" sourceLine="108">
+  <property name="id" value="regla861216"/>
+  <property name="label" value="lbl26758"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised = sum($ifrs-full:NumberOfSharesAuthorised2)"/>
+ </ref></entry>
+<entry code="message:regla861216" level="info">
+ <message label="861216">[message:regla861216] Rol[861200] Regla861216: Suma dimensiones Número de acciones autorizadas OK; contexto  SaldoInicio_ifrs-full_DisclosureOfClassesOfShareCapitalTable_ifrs-full_PreferenceSharesMember_7_ACT - 96785590_202209_I.xbrl 108</message>
+ <ref href="96785590_202209_I.xbrl#regla861216" sourceLine="108">
+  <property name="id" value="regla861216"/>
+  <property name="label" value="lbl26758"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesAuthorised = sum($ifrs-full:NumberOfSharesAuthorised2)"/>
+ </ref></entry>
+<entry code="message:regla110016" level="info">
+ <message label="110016">[message:regla110016] Rol[110000] Regla110016: OK, valida si se debe informar Tipo de opinión a los estados financieros diciembre - 96785590_202209_I.xbrl 177</message>
+ <ref href="96785590_202209_I.xbrl#regla110016" sourceLine="177">
+  <property name="id" value="regla110016"/>
+  <property name="label" value="lbl13189"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-12-31')) then (count(//cl-ci:TipoOpinionEEFFDiciembre[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2023-01-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla310001" level="info">
+ <message>[message:regla310001] Rol[310000] Regla310001:  Ganancia (pérdida), antes de impuestos, está informado - 96785590_202209_I.xbrl 34</message>
+ <ref href="96785590_202209_I.xbrl#regla310001" sourceLine="34">
+  <property name="id" value="regla310001"/>
+  <property name="label" value="lbl13644"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 2"/>
+ </ref></entry>
+<entry code="message:regla610002" level="info">
+ <message label="610002">[message:regla610002] Rol[610000] Regla610002: Suma dimensiones Patrimonio previamente reportado OK; contexto  SaldoAnteriorInicio - 96785590_202209_I.xbrl 44</message>
+ <ref href="96785590_202209_I.xbrl#regla610002" sourceLine="44">
+  <property name="id" value="regla610002"/>
+  <property name="label" value="lbl14346"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioPreviamenteReportado = sum($cl-ci:PatrimonioPreviamenteReportado2)"/>
+ </ref></entry>
+<entry code="message:regla610002" level="info">
+ <message label="610002">[message:regla610002] Rol[610000] Regla610002: Suma dimensiones Patrimonio previamente reportado OK; contexto  SaldoActualInicio - 96785590_202209_I.xbrl 44</message>
+ <ref href="96785590_202209_I.xbrl#regla610002" sourceLine="44">
+  <property name="id" value="regla610002"/>
+  <property name="label" value="lbl14346"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioPreviamenteReportado = sum($cl-ci:PatrimonioPreviamenteReportado2)"/>
+ </ref></entry>
+<entry code="message:regla861226" level="info">
+ <message label="861226">[message:regla861226] Rol[861200] Regla861226: OK, valida si se debe informar Utilidad líquida distribuible - 96785590_202209_I.xbrl 425</message>
+ <ref href="96785590_202209_I.xbrl#regla861226" sourceLine="425">
+  <property name="id" value="regla861226"/>
+  <property name="label" value="lbl26825"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-12-31')) then (count(//cl-ci:UtilidadLiquidaDistribuible[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2023-01-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla110022" level="info">
+ <message label="110022">[message:regla110022] Rol[110000] Regla110022: OK, valida si se debe informar Fecha de emisión de la opinión sobre estados financieros - 96785590_202209_I.xbrl 195</message>
+ <ref href="96785590_202209_I.xbrl#regla110022" sourceLine="195">
+  <property name="id" value="regla110022"/>
+  <property name="label" value="lbl13213"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-06-30')) then (count(//cl-ci:FechaEmisionOpinionEstadosFinancieros[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2022-07-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla610005" level="info">
+ <message label="610005">[message:regla610005] Rol[610000] Regla610005: Suma dimensiones Patrimonio al comienzo del periodo OK; contexto  SaldoAnteriorInicio - 96785590_202209_I.xbrl 59</message>
+ <ref href="96785590_202209_I.xbrl#regla610005" sourceLine="59">
+  <property name="id" value="regla610005"/>
+  <property name="label" value="lbl14369"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioReexpresado = sum($cl-ci:PatrimonioReexpresado2)"/>
+ </ref></entry>
+<entry code="message:regla610005" level="info">
+ <message label="610005">[message:regla610005] Rol[610000] Regla610005: Suma dimensiones Patrimonio al comienzo del periodo OK; contexto  SaldoActualInicio - 96785590_202209_I.xbrl 59</message>
+ <ref href="96785590_202209_I.xbrl#regla610005" sourceLine="59">
+  <property name="id" value="regla610005"/>
+  <property name="label" value="lbl14369"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$cl-ci:PatrimonioReexpresado = sum($cl-ci:PatrimonioReexpresado2)"/>
+ </ref></entry>
+<entry code="message:regla110017" level="info">
+ <message label="110017">[message:regla110017] Rol[110000] Regla110017: OK, valida si se debe informar Fecha de emisión de la opinión sobre estados financieros - 96785590_202209_I.xbrl 180</message>
+ <ref href="96785590_202209_I.xbrl#regla110017" sourceLine="180">
+  <property name="id" value="regla110017"/>
+  <property name="label" value="lbl13193"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-12-31')) then (count(//cl-ci:FechaEmisionOpinionEstadosFinancieros[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2023-01-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla610021" level="info">
+ <message label="610021">[message:regla610021] Rol[610000] Regla610021: Suma dimensiones Total incremento (disminución) en el patrimonio OK; contexto  TrimestreAcumuladoActual - 96785590_202209_I.xbrl 139</message>
+ <ref href="96785590_202209_I.xbrl#regla610021" sourceLine="139">
+  <property name="id" value="regla610021"/>
+  <property name="label" value="lbl14479"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ChangesInEquity = sum($ifrs-full:ChangesInEquity2)"/>
+ </ref></entry>
+<entry code="message:regla610021" level="info">
+ <message label="610021">[message:regla610021] Rol[610000] Regla610021: Suma dimensiones Total incremento (disminución) en el patrimonio OK; contexto  TrimestreAcumuladoAnterior - 96785590_202209_I.xbrl 139</message>
+ <ref href="96785590_202209_I.xbrl#regla610021" sourceLine="139">
+  <property name="id" value="regla610021"/>
+  <property name="label" value="lbl14479"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:ChangesInEquity = sum($ifrs-full:ChangesInEquity2)"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla861207" level="info">
+ <message label="861207">[message:regla861207] Rol[861200] Regla861207:  Total número de acciones emitidas es mayor o igual a Número de acciones en circulación - 96785590_202209_I.xbrl 63</message>
+ <ref href="96785590_202209_I.xbrl#regla861207" sourceLine="63">
+  <property name="id" value="regla861207"/>
+  <property name="label" value="lbl26697"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued ge $ifrs-full:NumberOfSharesOutstanding"/>
+ </ref></entry>
+<entry code="message:regla810002" level="info">
+ <message>[message:regla810002] Rol[810000] Regla810002:  Total activo individual de la entidad, está informado - 96785590_202209_I.xbrl 38</message>
+ <ref href="96785590_202209_I.xbrl#regla810002" sourceLine="38">
+  <property name="id" value="regla810002"/>
+  <property name="label" value="lbl16172"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 1"/>
+ </ref></entry>
+<entry code="message:regla861209" level="info">
+ <message label="861209">[message:regla861209] Rol[861200] Regla861209: Suma dimensiones Total número de acciones emitidas OK; contexto  CierreTrimestreActual - 96785590_202209_I.xbrl 73</message>
+ <ref href="96785590_202209_I.xbrl#regla861209" sourceLine="73">
+  <property name="id" value="regla861209"/>
+  <property name="label" value="lbl26712"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued = sum($ifrs-full:NumberOfSharesIssued2)"/>
+ </ref></entry>
+<entry code="message:regla861209" level="info">
+ <message label="861209">[message:regla861209] Rol[861200] Regla861209: Suma dimensiones Total número de acciones emitidas OK; contexto  SaldoActualInicio - 96785590_202209_I.xbrl 73</message>
+ <ref href="96785590_202209_I.xbrl#regla861209" sourceLine="73">
+  <property name="id" value="regla861209"/>
+  <property name="label" value="lbl26712"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued = sum($ifrs-full:NumberOfSharesIssued2)"/>
+ </ref></entry>
+<entry code="message:regla210001" level="info">
+ <message>[message:regla210001] Rol[210000] Regla210001:  Total de activos, está informado - 96785590_202209_I.xbrl 35</message>
+ <ref href="96785590_202209_I.xbrl#regla210001" sourceLine="35">
+  <property name="id" value="regla210001"/>
+  <property name="label" value="lbl13412"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 2"/>
+ </ref></entry>
+<entry code="message:regla861217" level="info">
+ <message label="861217">[message:regla861217] Rol[861200] Regla861217: Suma dimensiones Total número de acciones emitidas OK; contexto  Saldo_ifrs-full_DisclosureOfClassesOfShareCapitalTable_ifrs-full_PreferenceSharesMember_7_ACT - 96785590_202209_I.xbrl 113</message>
+ <ref href="96785590_202209_I.xbrl#regla861217" sourceLine="113">
+  <property name="id" value="regla861217"/>
+  <property name="label" value="lbl26766"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued = sum($ifrs-full:NumberOfSharesIssued2)"/>
+ </ref></entry>
+<entry code="message:regla861217" level="info">
+ <message label="861217">[message:regla861217] Rol[861200] Regla861217: Suma dimensiones Total número de acciones emitidas OK; contexto  SaldoInicio_ifrs-full_DisclosureOfClassesOfShareCapitalTable_ifrs-full_PreferenceSharesMember_7_ACT - 96785590_202209_I.xbrl 113</message>
+ <ref href="96785590_202209_I.xbrl#regla861217" sourceLine="113">
+  <property name="id" value="regla861217"/>
+  <property name="label" value="lbl26766"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:NumberOfSharesIssued = sum($ifrs-full:NumberOfSharesIssued2)"/>
+ </ref></entry>
+<entry code="message:regla110018" level="info">
+ <message label="110018">[message:regla110018] Rol[110000] Regla110018: OK, valida si se debe informar Nombre de empresa de auditoría externa - 96785590_202209_I.xbrl 183</message>
+ <ref href="96785590_202209_I.xbrl#regla110018" sourceLine="183">
+  <property name="id" value="regla110018"/>
+  <property name="label" value="lbl13197"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="if (count(//cl-ci:DateOfEndOfReportingPeriod) eq 1) then (if (//cl-ci:DateOfEndOfReportingPeriod eq xs:date('2022-06-30')) then (count(//cl-ci:NombreEmpresaAuditoriExterna[xs:date(xfi:period-end(xfi:period(.))) eq xs:date('2022-07-01')]) eq 1) else true()) else true()"/>
+ </ref></entry>
+<entry code="message:regla835118" level="info">
+ <message label="835118">[message:regla835118] Rol[835110d] Regla835118: Suma dimensiones Pasivo (activo) por impuestos diferidos neto OK; contexto  Saldo_ifrs-full_DisclosureOfTemporaryDifferenceUnusedTaxLossesAndUnusedTaxCreditsTable_ifrs-full_TemporaryDifferenceMember_5_ACT - 96785590_202209_I.xbrl 73</message>
+ <ref href="96785590_202209_I.xbrl#regla835118" sourceLine="73">
+  <property name="id" value="regla835118"/>
+  <property name="label" value="lbl26250"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:DeferredTaxLiabilityAsset = sum($ifrs-full:DeferredTaxLiabilityAsset2)"/>
+ </ref></entry>
+<entry code="message:regla835118" level="info">
+ <message label="835118">[message:regla835118] Rol[835110d] Regla835118: Suma dimensiones Pasivo (activo) por impuestos diferidos neto OK; contexto  SaldoInicio_ifrs-full_DisclosureOfTemporaryDifferenceUnusedTaxLossesAndUnusedTaxCreditsTable_ifrs-full_TemporaryDifferenceMember_5_ACT - 96785590_202209_I.xbrl 73</message>
+ <ref href="96785590_202209_I.xbrl#regla835118" sourceLine="73">
+  <property name="id" value="regla835118"/>
+  <property name="label" value="lbl26250"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:DeferredTaxLiabilityAsset = sum($ifrs-full:DeferredTaxLiabilityAsset2)"/>
+ </ref></entry>
+<entry code="message:regla610032" level="info">
+ <message label="610032">[message:regla610032] Rol[610000] Regla610032: Suma dimensiones Incremento (disminución) por otras aportaciones de los propietarios OK; contexto  Periodo_ifrs-full_StatementOfChangesInEquityTable_ifrs-full_EquityAttributableToOwnersOfParentMember_3_ACT - 96785590_202209_I.xbrl 194</message>
+ <ref href="96785590_202209_I.xbrl#regla610032" sourceLine="194">
+  <property name="id" value="regla610032"/>
+  <property name="label" value="lbl14547"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value="$ifrs-full:IncreaseDecreaseThroughOtherContributionsByOwners = sum($ifrs-full:IncreaseDecreaseThroughOtherContributionsByOwners2)"/>
+ </ref></entry>
+<entry code="message:regla861204" level="info">
+ <message>[message:regla861204] Rol[861200] Regla861204:  Número de acciones en circulación, está informado - 96785590_202209_I.xbrl 48</message>
+ <ref href="96785590_202209_I.xbrl#regla861204" sourceLine="48">
+  <property name="id" value="regla861204"/>
+  <property name="label" value="lbl26674"/>
+  <property name="aspectModel" value="dimensional"/>
+  <property name="implicitFiltering" value="true"/>
+  <property name="test" value=". ge 2"/>
+ </ref></entry>
+<entry code="info" level="info">
+ <message>[info] validated in 6.97 secs - f:\out\113-45\96785590_202209_I.xbrl </message>
+ <ref href="f:\out\113-45\96785590_202209_I.xbrl"/></entry>
+</log>
